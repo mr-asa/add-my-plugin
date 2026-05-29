@@ -29776,5 +29776,12 @@
     "author": "fengshuzi",
     "description": "This plugin has not been manually reviewed by Obsidian staff. View and edit notes grouped by keyword tags, similar to Logseq tag view.",
     "repo": "fengshuzi/keyword-notes-editor"
+  },
+  {
+    "id": "obsidian-checkers-hider",
+    "name": "Checkers Hider",
+    "author": "mr-asa",
+    "description": "Hide or show completed and custom-status checklist items in Obsidian.",
+    "repo": "mr-asa/obsidian-checkers-hider"
   }
 ]

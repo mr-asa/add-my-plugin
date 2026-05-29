@@ -29846,5 +29846,12 @@
     "author": "Anton Liberant",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Browse top Hacker News stories and save them to your reading list",
     "repo": "anliberant/hn-obsidian-plugin"
+  },
+  {
+    "id": "obsidian-checkers-hider",
+    "name": "Checkers Hider",
+    "author": "mr-asa",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Hide or show completed and custom-status checklist items in Obsidian.",
+    "repo": "mr-asa/obsidian-checkers-hider"
   }
 ]
